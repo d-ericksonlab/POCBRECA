@@ -1,6 +1,6 @@
-# LFIA Analyzer Application for POCBRECA Triplex Assay
+# LFIA Analyzer Application for Breast Cancer Diagnostic Triplex Assay
 
-This is a simple PySimpleGUI based application for a raspberry pi based lateral flow assay imaging system. 
+This is a simple PySimpleGUI based application for a raspberry pi based lateral flow assay fluoresence imaging system. 
 
 ##Requirements
 
@@ -12,4 +12,4 @@ This is a simple PySimpleGUI based application for a raspberry pi based lateral 
 
 ```bash
 pip install -r requirements.txt
-python Imager_app_PocBreCa.py
+python Imager_app.py
