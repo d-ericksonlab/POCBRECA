@@ -12,4 +12,4 @@ This is a simple PySimpleGUI based application for a raspberry pi based lateral 
 
 ```bash
 pip install -r requirements.txt
-python gui_app.py
+python Imager_app_PocBreCa.py
