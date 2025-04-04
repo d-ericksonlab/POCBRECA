@@ -1,0 +1,6 @@
+PySimpleGUI
+numpy
+Pillow
+matplotlib
+scipy
+pandas
